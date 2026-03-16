@@ -27,4 +27,4 @@ Clear, formatted output of results
 
 🛠️ Technologies Used
 
-Python 3.x
+Python 
